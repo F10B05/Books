@@ -262,3 +262,164 @@ After a vicious struggle that left several of their own guards wounded, the last
 
 They were victorious, but battered. They took a crucial moment to heal, using their **[First-Aid Kit]** to stabilize the wounded and prepare for the final confrontation. With the `Key of the First Follower` in hand, they approached the vault door. They opted for a tactical entry: Manson and Leo would form a shield wall at the entrance while the ranged fighters unleashed an opening volley.
 
+### **Chapter 10: The First Follower**
+
+The massive vault door retracted. Inside, a shimmering `[System-Anomalous Zone]` distorted the air. At the center of the chamber stood **Elara, the First Follower**, a Level 10 `Geo-Sculptor`. She effortlessly raised a **[Stone Wall]**, negating their opening attack.
+
+This time, she didn't wait.
+
+"You are insects," she said, her voice devoid of emotion. Her eyes glowed with a terrifying grey light as she looked past the shield wall, focusing on one of the young guards in the back. "And you will be preserved as such."
+`[Elara uses [Petrifying Gaze] on Safe Zone Guard!]`
+
+The guard, a young man named Luc, screamed. It was a choked, cut-off sound as his body seized, his skin rapidly shifting from flesh to the dull, lifeless grey of stone. In seconds, he was a perfect, screaming statue.
+
+The horror of it shattered their morale.
+
+"FALL BACK! FALL BACK NOW!" Leo roared, his voice cracking with desperation. It was no longer a tactical retreat; it was a rout. As they turned to flee, Elara gestured contemptuously. From the shadows of the vault, two smaller, faster constructs—corrupted stone wolves—leapt out to pursue them. The retreat through the Mint was a nightmare. One of the wolves lunged at Leo, and he shoved a younger guard out of the way, taking the blow himself.
+`[Leo takes 120 Crushing Damage!]`
+`[Status Effect: [Broken Arm] applied!]`
+`[Status Effect: [Bleeding] applied!]`
+`[HP: 30 / 150]`
+
+He collapsed, his arm bent at an unnatural angle. Manson and Elizabeth formed a desperate rearguard, their teamwork the only thing holding the line. They finally shattered the constructs but lost two more guards in the process. They half-carried the grievously wounded Leo back and jammed the vault door, sealing the monster inside.
+
+The journey back through the tunnels was a grim, silent procession of the defeated. They had not just failed; they had been broken.
+
+### **Chapter 11: The Resonance Project**
+
+Their return to the Citadel was not met with cheers, but with the frantic shouts of medics. The main hall became a triage center. The mood was dire. Their best team had been sent out, and they had been crushed.
+
+The debriefing with Rémi was tense. "She's a high-level user," Manson explained, his voice low and exhausted. "In a place that weakens us and strengthens her. We can't beat her with brute force."
+
+"Then you will find another way," Rémi stated, her voice hard as iron. "The Aegis Lab is yours. All resources are yours. Find a way to crack that wall. Find a way to nullify that zone. Do not fail again."
+
+The weight of the entire Citadel fell on Manson's shoulders. The next week was a blur of sleepless nights and grueling work. The workshop was filled with the scorch marks of failed prototypes and the litter of spent materials. It was a week of frustration and near-misses before he finally achieved a stable breakthrough. He had forged a weapon from pure theory.
+
+`[Item Crafted: Resonance Grenade (Prototype)]`
+`> Quality: Epic`
+`> Type: Throwable Device (Consumable)`
+`> Effect: Upon detonation, releases a targeted resonance wave in a 5-meter radius. Instantly shatters any active [Stone Wall]. Temporarily deactivates the abilities of Sentinel-class constructs and Praetorian armor cores for 15 seconds. Has no effect on organic creatures.`
+`> Note: Unstable. May have unforeseen side effects.`
+
+To test it, they undertook a daring mission to capture a live `Shambling Husk`. They succeeded, bringing it back to a secure chamber. They first established a baseline, firing a rifle at a `Stone Wall` projected by a core powered by the Husk. The bullets were useless. Then, Manson threw the grenade. The effect was absolute. The `Stone Wall` shattered into nothing. They had their weapon.
+
+### **Chapter 12: Eve of War**
+
+The mood in the Citadel shifted from fear to fierce resolve. The twenty-four hours before the final assault were a blur of preparation. The War Council met, with a recovering Leo—his arm in a System-enhanced cast—insisting on joining the final assault.
+
+In the main hall, Elizabeth walked amongst the survivors, the weight of their hopeful, terrified stares on her shoulders. The child of Luc, the guard who was petrified, gave her a small, handmade good luck charm. She clipped it to her belt, the personal stake of their mission a heavy weight in her heart.
+
+The most grueling preparation fell to Manson. For ten straight hours, he toiled at the forge, the heat and noise overwhelming as he undertook his next Rare craft. With Gus assisting with the metallurgy, Manson focused the full power of his `Artisan's Intuition` on the `Obsidian Claw Shard` and `Stalker's Alpha Claw`. He succeeded, creating a weapon of pure malice.
+
+`[Item Crafted: Curator's Scalpel]`
+`> Type: Dagger (Off-hand)`
+`> Quality: Rare`
+`> Damage: 15-20 (+DEX Bonus)`
+`> Effect: [Grievous Wounds] - Attacks with this weapon inflict a debuff that reduces the target's healing effectiveness and causes a light bleeding effect.`
+`> Effect: [Synergy] - When wielded with the [Cavalry Saber], your critical hit chance is slightly increased.`
+`> Crafted by Artificer Manson Thomas.`
+
+Before they left, Dr. Aris provided them with one last trump card: a **[Null-Field Emitter]**, a unique device capable of temporarily disabling all System skills in an area. They were ready.
+
+### **Chapter 13: The Final Battle**
+
+They infiltrated the Mint a second time. This time, there was no subterfuge. They breached the doors and fought their way to the vault, a disciplined, unstoppable force carving a path of vengeance.
+
+The final battle against Elara began. Her `Stone Wall` rose to meet them, but their plan was perfect. Manson threw the **[Resonance Grenade]**, shattering the wall. In that same instant, Elizabeth threw the **[Null-Field Emitter]**, which detonated in the center of the room, severing Elara's connection to the System and disabling all skills.
+
+The final battle was not one of magic, but of pure, brutal, physical combat. The comforting hum of the System in their minds vanished, leaving only the sound of their own breathing and the clash of steel. Stripped of her power, Elara was fast and skilled, but she was one person against a fourteen-member assault team.
+`[COMBAT LOG INITIATED]`
+`[ALL SYSTEM SKILLS DISABLED]`
+`> Elara (Level 10) lunges at the frontline!`
+`> Manson intercepts with [Aegis of the Sentinel]! Elara's attack is blocked! [Aegis Durability: 195/200].`
+`> Elizabeth flanks Elara, striking with [Cavalry Saber] and [Curator's Scalpel]!`
+`> Elara takes 48 physical damage!`
+`> Elara takes 42 physical damage!`
+`> Leo and the Guard Squad open fire!`
+`> Elara takes 115 ballistic damage!`
+`> Maya fires an [Obsidian Bolt]!`
+`> Elara takes 65 piercing damage! Inflicted with [Grievous Wound]!`
+
+Elara screamed in pain and fury, unused to such raw, physical damage. She slammed a guard aside, a sickening crunch echoing through the vault.
+`[Safe Zone Guard takes 110 damage! Guard is KIA.]`
+
+The team pressed their attack, a whirlwind of steel and bullets. The fifteen seconds of the Null-Field felt like an eternity.
+`[Null-Field is collapsing... 3... 2... 1...]`
+`[System abilities are now online!]`
+
+Elara's eyes blazed with renewed power. "INSECTS!" she shrieked, a grey, petrifying energy beginning to form in her gaze as she focused on Manson.
+
+But Elizabeth had anticipated it. The moment her own connection to the System returned, she poured her remaining energy into one final, desperate act.
+`[Elizabeth uses [Shadow Step - Lvl 1]! -35 SP]`
+`[Elizabeth attacks from Stealth! Backstab Bonus applied!]`
+`[Elizabeth uses [Twin Strike - Lvl 1]! -15 SP]`
+`[Critical Hit!]`
+`[Elara, The First Follower has been defeated!]`
+
+She appeared directly behind the shocked Elara, her saber and scalpel driving home in two perfect, lethal strikes. The petrifying energy in Elara's eyes died, and she crumbled to the floor. The victory was absolute.
+### **Chapter 14: A New Day**
+
+The date is Wednesday, September 17, 2025. Nearly a year has passed since the Battle of the Mint. Autumn is painting the Ottawa River valley in hues of red and gold, a sight almost peaceful if you ignored the silent, empty city across the water.
+
+The Gatineau Citadel is no longer a desperate sanctuary; it is a thriving, fortified city-state. Its walls have expanded, reclaiming block after block of Vieux-Hull. Hydroponic farms glow under powerful lights in the bowels of the Palais de Justice, and the constant, rhythmic clang of hammers from the Aegis Lab is the heartbeat of their new civilization.
+
+**Elizabeth Sirois, now Level 8** and Commander of the Ghosts, stands on a fortified watchtower on the Portage Bridge. Her **[Mantle of the Silent Curator]** ripples in the cool afternoon breeze. Below her, her elite squad runs drills, their movements swift and silent. Her gaze is fixed on the ruins of Ottawa, on the silent, ominous shape of Parliament Hill. The peace is real, but she knows it is fragile.
+
+In the heart of the Citadel, **Manson Thomas, Level 8 Artificer**, is in his element. The Aegis Lab is a marvel of post-System engineering, a fusion of scavenged tech and System magic. His greatest obsession, the one puzzle he has yet to solve, rests on a terminal in the center of the lab: the corrupted datapad of the First Follower. For eleven months, he has worked to break its encryption.
+
+Today, at 5:07 PM, a final algorithm falls into place. The encryption shatters.
+`[Decryption of [Corrupted Datapad] successful!]`
+`[Accessing hidden files...]`
+
+The contents that scroll onto the screen make his blood run cold. It's not a journal; it's a global manifest. It lists other "First Followers" and their respective "Preservation" projects in cities across the globe. The Ottawa cell was just one of many.
+
+And then he sees the timetable. A countdown.
+
+**"Phase Two Initiation: Global Cascade Event. Scheduled: Year 2, Day 1."**
+
+Manson does the math in his head. The System arrived in late October. The second anniversary is just over a month away. The Preservationists weren't the main event. They were the prologue.
+
+He hits the priority alert on his transceiver. "Rémi. Elizabeth. Get to the command center. Now."
+
+They stand before the holographic map, the new data painting a terrifying picture. The Architect's plan is global. The Cascade Event will activate every Nexus on the planet simultaneously.
+
+"We have one month," Rémi says, her voice grim. "One month to prepare for the real apocalypse."
+
+---
+**Question 114: You are faced with a global, existential threat with a one-month deadline. What is your first, critical move?**
+
+* **A) The Fortress Protocol:** You have a month. You will pour every resource into fortifying the Gatineau Citadel. You'll build higher walls, craft deadlier weapons, and train every able-bodied survivor, preparing to weather the coming storm alone.
+* **B) The Nexus Strike:** The datapad lists the next closest active Nexus: Montreal. You will form an elite strike team and attempt a desperate, pre-emptive strike, hoping to disable a key piece of the Architect's network before the Cascade Event begins.
+* **C) The Alliance Protocol:** The datapad is proof that others are out there. You will use the Citadel's most powerful communication arrays to broadcast the Architect's plan, attempting to contact other major survivor enclaves like the one in Montreal to form a global resistance.
+* 
+
+
+### **Epilogue**
+
+A cascade of triumphant notifications, the most powerful they had ever felt, washed over them.
+`[UNIQUE BOSS DEFEATED: ELARA, THE FIRST FOLLOWER]`
+`[Massive EXP Gained: 3500]`
+
+`[LEVEL UP!]`
+`You have reached Level 6!`
+`You have 5 unspent attribute points.`
+`HP and SP have been fully restored.`
+
+Standing victorious, they claimed their final reward. Elizabeth, seeing the path of the Blade Dancer required ultimate physical perfection, pushed her body to new limits, adding **+4 Strength and +1 Dexterity**. Manson, seeing the final battle as ultimate proof of his philosophy, transcended even further, pouring all **+5 points into Intelligence**.
+`[At Level 10, new Class Evolutions will become available for the [Blade Dancer] class.]`
+`[Potential Paths Detected: Phantom Edge, Ghostwind Striker]`
+
+`[At Level 10, new Class Evolutions will become available for the [Artificer] class.]`
+`[Potential Paths Detected: Forge Master, System Engineer]`
+
+With the death of their leader, the Preservationists broke. The Nexus on Parliament Hill, its controller gone, erupted in a wave of wild, untamed energy. The team escaped just as the Parliament building was engulfed in a silent, brilliant flash of light. From Elara's fallen form, they recovered a single, corrupted datapad. Its contents were encrypted, but the title was clear: "Communications Log: The Architect." The true leader was still out there.
+
+In the months that follow, the Gatineau Citadel becomes the true capital of the new world in the region. The threat of the Preservationists is gone for now.
+
+Manson, using the data and materials recovered from the Mint, finally achieves the impossible. He spends weeks in the Aegis Lab, tirelessly working. He discovers that the `Nexus Crystal` they hoped to find was not a physical object, but the condensed energy released when Elara was slain. By carefully focusing this residual energy through a device powered by the `Heart of the Curator`, he creates a resonance cascade that targets the petrification matrix. In a tense, delicate procedure, he restores the two scouts from the museum and the guard Luc, their stone skin cracking away to reveal the living, breathing men beneath. Their return is a symbol of a promise kept, a testament to the fact that no one would be left behind.
+
+Manson is no longer just an Artificer; he is the Director of the Aegis Lab, the architect of their future.
+
+Elizabeth is no longer just a Blade Dancer; she is the legendary Commander of the Ghosts, the silent protector of their city.
+
+They started as two people in an apartment, terrified and confused. Through countless trials, they became a wall and a storm, a genius and a ghost. They faced the end of the world, and together, they forged a new one from its ashes.
