@@ -191,7 +191,8 @@ The moment they confirmed, a torrent of energy and information flooded their min
 They were no longer just survivors. They had a purpose.
 
 ### **Chapter 6: The Curator**
-<img width="512" height="512" alt="image_46c534ff-123c-47d0-b771-f510bbdd1ece" src="https://github.com/user-attachments/assets/635fb634-a376-4b21-bcce-e2c07b210516" />
+<img width="128" height="128" alt="image_9df87ed7-5327-485b-b0ea-e92089116dd6" src="https://github.com/user-attachments/assets/1fdd3d80-005c-4bef-902f-0a3194ac35e9" />
+
 
 With one scout rescued but two still missing, they pressed on, carrying their unconscious new charge. They found another scout dead, his armor cracked by heavy blows, and the path ahead forked, with a Sentinel patrolling each corridor. Committing to the left path, they set an ambush. But this Sentinel let out a piercing `[Alarm Shriek]`, a psychically grating sound that promised imminent doom. The second Sentinel was coming, fast. After a frantic battle, they defeated the first, the rapid *click-click-click* of the second growing louder by the second.
 
