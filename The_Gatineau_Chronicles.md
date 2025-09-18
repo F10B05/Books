@@ -1,4 +1,5 @@
 # **Systemfall: The Gatineau Chronicles**
+<img width="512" height="512" alt="image_1932b1ea-8364-4687-af0a-62bea59651be" src="https://github.com/user-attachments/assets/595250c8-fa9c-409c-b2de-d7039d1206b2" />
 
 ### **Chapter 1: The End of the Old World**
 
