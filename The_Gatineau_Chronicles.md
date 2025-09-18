@@ -141,7 +141,25 @@ They were stronger, smarter, and finally, after a last, desperate sprint that ea
 
 ### **Chapter 5: The Choice of a Path**
 
-Their arrival at the Safe Zone, now being called the Citadel, was a whirlwind of relief and processing. They met the Citadel's pragmatic leader, **Administrator Rémi**, and the grizzled head craftsman, **Gus**. After a short debrief, Rémi looked at them, a notification on her own System interface catching her eye.
+Their arrival at the Safe Zone, now being called the Citadel, was a whirlwind of relief and processing. As they were escorted through the massive, makeshift gates of the Palais de Justice, a final, triumphant notification chimed in their minds.
+`[Quest Complete: The Outside World!]`
+`[You have successfully reached a designated Safe Zone.]`
+`[Bonus EXP awarded for combat effectiveness and speed.]`
+`[EXP Gained: 500]`
+
+`[LEVEL UP!]`
+`You have reached Level 4!`
+`You have 5 unspent attribute points.`
+
+They met the Citadel's pragmatic leader, **Administrator Rémi**, and the grizzled head craftsman, **Gus**. While they were being given food and water, they took the opportunity to invest their new power.
+
+**Elizabeth's Level 4 Upgrade:**
+*The Stalker was fast, but the Husk was strong. I need to be ready for both.* She decided to continue rounding out her build, preparing for the unpredictable threats ahead. She added **+3 STR (13) and +2 DEX (16)**. The upgrade flowed through her, a feeling of coiled power, making her grip on her hatchet feel more potent and her feet even lighter.
+
+**Manson's Level 4 Upgrade:**
+Manson's philosophy was now set in stone. Every problem they had overcome was solved by his planning, not just his strength. He continued his singular focus, investing another **+5 points into Intelligence (24)**. The influx of mental energy was staggering. He could now almost feel the faint hum of the System's logic beneath the surface of reality, a complex machine he was beginning to understand.
+
+After their debrief, Rémi looked at them, a notification on her own System interface catching her eye.
 
 "You completed the tutorial," she stated. "Which means the System has awarded you each a `[Class Selection Token]`. This is the most important choice you will make. Your class focuses your growth, unlocks unique skills, and defines your role in this new world. It is permanent. Choose wisely."
 
