@@ -139,31 +139,37 @@ Manson's gambit with the crowbar had worked, but it was his intellect that led t
 
 They were stronger, smarter, and finally, after a last, desperate sprint that earned them both `[Running - Lvl 2]`, they saw it: the fortified walls of the Palais de Justice. They had made it.
 
-### **Chapter 5: The Museum of History**
+### **Chapter 5: The Choice of a Path**
 
-Their arrival at the Safe Zone, now being called the Citadel, was followed by a brief period of integration and rest. They met the Citadel's pragmatic leader, **Administrator Rémi**, and the grizzled head craftsman, **Gus**. But their respite was short-lived. A scouting patrol had gone missing. Their last known position was the **Canadian Museum of History**, a mere 500 meters down Rue Laurier. The danger wasn't the distance, but the extreme concentration of System energy reported in the area. Rémi needed her best, and the two newcomers had already proven their worth.
+Their arrival at the Safe Zone, now being called the Citadel, was a whirlwind of relief and processing. They met the Citadel's pragmatic leader, **Administrator Rémi**, and the grizzled head craftsman, **Gus**. After a short debrief, Rémi looked at them, a notification on her own System interface catching her eye.
 
-Before accepting, they leveraged their success to gain access to Gus's "Artificer's Stash" of rare materials. With a new **[Uncommon Power Core]** in hand and only an hour before departure, Manson undertook a frantic, high-stakes craft. Gus watched, amazed, as Manson worked with a speed that should have been impossible, his hands a blur as he shaped metal and integrated the humming core into a scavenged gauntlet. The final fusion was a heart-stopping moment of risk, but his intellect held the volatile energies in check.
+"You completed the tutorial," she stated. "Which means the System has awarded you each a `[Class Selection Token]`. This is the most important choice you will make. Your class focuses your growth, unlocks unique skills, and defines your role in this new world. It is permanent. Choose wisely."
 
-A notification announced his success: `[Item Crafted: Kinetic Overdrive Gauntlet]`.
-`> Type: Gauntlet (Medium Armor)`
-`> Quality: Rare`
-`> Armor: 8`
-`> Durability: 150/150`
-`> Effect: +1 Strength, +1 Intelligence`
-`> Active Ability: [Kinetic Pulse] - Costs 30 SP. Unleash a short-range blast of concussive force, staggering all enemies in a cone in front of you. (Cooldown: 5 minutes)`
-`> Bonus Effect: [Energy Siphon] - Melee strikes with this gauntlet have a small chance to restore 1 SP.`
-`> Crafted by Artificer Manson Thomas.`
+Two screens appeared, detailing their potential paths.
 
-Their new team was led by **Leo**, a tall, wiry veteran scavenger whose well-stocked pack seemed to hold an answer for every problem, and **Maya**, a silent, deadly archer. They took to the rooftops to cover the short but dangerous distance. Their path was blocked by a wide gap between buildings. The team held their breath as Maya, accounting for the wind and the drag of the attached **paracord** from Leo's pack, loosed a perfectly aimed arrow that secured their crossing. Elizabeth and Manson exchanged an impressed glance; these veterans were the real deal. They crossed, arriving at the museum roof. They found signs of the missing scouts, but the only way in was a massive, reinforced skylight. Manson, using his **[Deconstruct]** skill with surgical precision, dismantled the frame's locking mechanism, opening a silent path inside. Leo gave him a gruff, appreciative nod.
+**For Elizabeth:**
+* **Blade Dancer:** Excel in rapid, fluid attacks. The blur that kills.
+* **Shadow:** Master of stealth and surprise. The danger they never see coming.
+* **Warden:** A resilient defender. The unbreachable, mobile wall.
 
-They rappelled down into the Grand Hall, an echoing cavern dominated by the iconic totem poles and the massive whale skeleton suspended from the ceiling. Following their quest to find a map, they moved to the lobby and found the scouts' tracks. They led to the **Canadian History Hall**, but there were no tracks leading back. A faint, rhythmic clicking emanated from the darkness ahead. Using a quickly crafted periscope, Manson spied the source: a **[Mannequin Sentinel]**, a Level 5 construct modeled after a War of 1812 soldier, patrolling before the slumped body of a scout. The Sentinel was powerful, but weak to blunt trauma.
+Elizabeth considered her options. *Warden... to protect people. But I can't protect anyone if I'm not lethal enough to end the threat. Shadow... stealth is smart. But the Stalker fight was a direct confrontation.* Her eyes settled on the first option. *Blade Dancer. Speed. Lethality. Meeting the threat head-on.* She knew who she had to become. She selected **Blade Dancer**.
 
-They set an ambush. As the Sentinel passed, the sound of stone grinding on marble grating in their ears, Manson and Leo struck. The impact of their blunt weapons was like the crack of splitting rock. Elizabeth, now **Level 4**, surged forward, her System confirming her action: `[Elizabeth uses [Twin Strike - Lvl 1]! -15 SP]`. Her attack found the newly formed fractures and shattered the construct. The scout was alive, but they discovered he was bait for another, dormant Sentinel—a mannequin of a *coureur des bois* in a nearby diorama.
+**For Manson:**
+* **Artificer:** Master of crafting and enhancement. The mind that forges victory.
+* **Guardian:** A pure powerhouse of resilience. An unstoppable force.
+* **Strategist:** A battlefield controller and support specialist.
 
-The team fell silent, all eyes on Maya. A notification appeared for them all: a high-difficulty `Called Shot` was required. One miss, and the construct would activate. Maya drew, held her breath until the world seemed to stop, and loosed her arrow. It whispered across the hall and struck the dormant Sentinel's neck joint with a sharp *crack*, shattering it before it could ever awaken.
+Manson’s choice was almost instantaneous. *Guardian is pure brawn. That's not me. Strategist is about controlling others. But what if I'm alone? Artificer... it lets me create solutions. It turns my mind into a weapon. It's the only path.* He selected **Artificer**.
 
-The scout was not merely wounded; a **[Lesser Petrified Core]** was slowly turning him to stone. Manson, with the team covering him, performed a delicate operation, using his crowbar to carefully pry the "seed" loose, saving the man's life.
+The moment they confirmed, a torrent of energy and information flooded their minds. Elizabeth felt her muscles coil with new, fluid potential. Manson's mind was filled with a cascade of schematics and theorems.
+
+`[Class Selected: Blade Dancer]`
+`[New Skills Unlocked: [Graceful Step - Lvl 1], [Twin Strike - Lvl 1]]`
+
+`[Class Selected: Artificer]`
+`[New Skills Unlocked: [Basic Crafting - Lvl 1], [Deconstruct - Lvl 1]]`
+
+They were no longer just survivors. They had a purpose.
 
 ### **Chapter 6: The Curator**
 
@@ -222,11 +228,15 @@ He was on the cusp of a breakthrough. His intellect was his greatest weapon, and
 
 Their return was triumphant. Greeted as heroes, they delivered the rescued scouts to Dr. Aris in the infirmary, an act of compassion that earned them the `[Friend of the Medics]` title. Their official debriefing with Rémi established a new, chilling threat: a cult known as the **"Preservationists"** who followed the Curator's ideology, led by a mysterious "First Follower." The cultural rift, a quiet friction between the pragmatic, community-focused Francophone survivors of Gatineau and some of the more cold, order-obsessed Anglophone arrivals from Ottawa, had provided the perfect cover for the enemy's infiltration. This debriefing also formalized the Citadel's command structure, with Rémi presiding over a council that included Gus of the **Workshop Union** and Leo of the **Aegis Wardens**.
 
-### **Chapter 8: The Traitor Within**
+ ### **Chapter 8: The Traitor Within**
 
 The heroes' newfound peace was shattered days later. Dr. Aris was abducted from within the Citadel, a `Lesser Petrified Core` planted on her, leading her out into the city. An investigation revealed an inside job, orchestrated by a group of survivors from Ottawa led by a scavenger named Silas. The orderly they interviewed remembered the key detail: "The scavenger, Silas, insisted on delivering some blankets himself... brushed right past the doctor in the hall. It was over in a second."
 
-Choosing to secure their home before giving chase, Elizabeth and Manson led a purge, cornering the traitors in the courthouse archives. The fight was swift and claustrophobic. Elizabeth used her `[Shadow Step - Lvl 1]` `[-35 SP]`, and Manson activated his `[Kinetic Pulse]` `[-30 SP]`. Their combined skills made short work of the enemy. The captured leader revealed their name—the "Preservationists"—and their goal: to use Dr. Aris's knowledge to control the petrification process. Their main base, their "Vault," was the Bank of Canada building.
+Choosing to secure their home before giving chase, Elizabeth and Manson led a purge, cornering the traitors in the courthouse archives. The fight was swift and claustrophobic.
+`[Elizabeth uses [Shadow Step - Lvl 1]! -35 SP]`
+`[Manson activates [Kinetic Pulse]! -30 SP]`
+
+Their combined skills made short work of the enemy. The captured leader revealed their name—the "Preservationists"—and their goal: to use Dr. Aris's knowledge to control the petrification process. Their main base, their "Vault," was the Bank of Canada building.
 
 Knowing they faced an intelligent human enemy, they decided to prepare. Crafting a Rare shield was a grueling, all-night affair. Manson worked without rest, the clang of his hammer a constant rhythm in the workshop. He had to meticulously heat and shape the **[Hardened Carapace Plating]** while simultaneously creating a stable housing for the volatile **[Petrified Core]**. It was a test of both his physical endurance and his immense intellect.
 
@@ -284,6 +294,7 @@ The horror of it shattered their morale.
 He collapsed, his arm bent at an unnatural angle. Manson and Elizabeth formed a desperate rearguard, their teamwork the only thing holding the line. They finally shattered the constructs but lost two more guards in the process. They half-carried the grievously wounded Leo back and jammed the vault door, sealing the monster inside.
 
 The journey back through the tunnels was a grim, silent procession of the defeated. They had not just failed; they had been broken.
+
 
 ### **Chapter 11: The Resonance Project**
 
