@@ -387,61 +387,6 @@ But Elizabeth had anticipated it. The moment her own connection to the System re
 `[Elara, The First Follower has been defeated!]`
 
 She appeared directly behind the shocked Elara, her saber and scalpel driving home in two perfect, lethal strikes. The petrifying energy in Elara's eyes died, and she crumbled to the floor. The victory was absolute.
-#### **Chapter 14: The Cascade**
-
-The date is Wednesday, September 17, 2025. Nearly a year has passed since the Battle of the Mint. Autumn is painting the Ottawa River valley in hues of red and gold, a sight almost peaceful if you ignored the silent, empty city across the water.
-
-The Gatineau Citadel is no longer a desperate sanctuary; it is a thriving, fortified city-state. Its walls have expanded, reclaiming block after block of Vieux-Hull. Hydroponic farms glow under powerful lights in the bowels of the Palais de Justice, and the constant, rhythmic clang of hammers from the Aegis Lab is the heartbeat of their new civilization.
-
-**Elizabeth Sirois**, who had reached Level 8 through countless patrols and clearing operations, now served as the Commander of the Ghosts. She stood on a fortified watchtower on the Portage Bridge, her **[Mantle of the Silent Curator]** rippling in the cool evening breeze. Below her, her elite squad ran drills, their movements swift and silent. Her gaze was fixed on the ruins of Ottawa, on the silent, ominous shape of Parliament Hill. The peace was real, but she knew it was fragile. She felt a sense of pride seeing David, one of the scouts she'd rescued from the museum, now serving as a lieutenant in the Aegis Wardens below. They had saved everyone they could.
-
-In the heart of the Citadel, **Manson Thomas**, whose relentless crafting and research had propelled him to Level 8, was in his element. The Aegis Lab was a marvel of post-System engineering, a fusion of scavenged tech and System magic. His greatest obsession, the one puzzle he has yet to solve, rests on a terminal in the center of the lab: the corrupted datapad of the First Follower. For eleven months, he has worked to break its encryption.
-
-Tonight, at 9:12 PM, a final algorithm falls into place. The encryption shatters.
-`[Decryption of [Corrupted Datapad] successful!]`
-`[Accessing hidden files...]`
-
-The contents that scroll onto the screen make his blood run cold. It's not a journal; it's a global manifest. It lists other "First Followers" and their respective "Preservation" projects in cities across the globe. The Ottawa cell was just one of many.
-
-And then he sees the timetable. A countdown.
-
-**"Phase Two Initiation: Global Cascade Event. Scheduled: Year 2, Day 1."**
-
-Manson does the math in his head. The System arrived in late October. The second anniversary is just over a month away. The Preservationists weren't the main event. They were the prologue.
-
-He hits the priority alert on his transceiver. "Rémi. Elizabeth. Get to the command center. Now."
-
-They stand before the holographic map, the new data painting a terrifying picture. The Architect's plan is global. The Cascade Event will activate every Nexus on the planet simultaneously.
-
-"We have one month," Rémi says, her voice grim. "One month to prepare for the real apocalypse."
-
-An emergency War Council is convened. Leo of the Aegis Wardens, Gus of the Workshop Union, and Corine, now leading the River Runner scouts, gather around the holographic map.
-
-Gus is the first to speak, his voice a low growl. "We build the walls higher. We arm every man, woman, and child. The Fortress Protocol. We can't save the world, but we can save *our* people."
-
-"That's a slow death," Leo counters, his hand resting on the pistol at his hip. "The best defense is to hit them before they're ready. The datapad gives us the location of the Montreal Nexus. We send a strike team. We cut the head off a second snake."
-
-Rémi looks at Manson and Elizabeth. "You've faced them. You've seen what this Architect can do. What do you advise?"
-
-Manson, his mind processing the global scale of the threat, answers. "They're both right. But they're both wrong. We can't hide, and we can't win alone. Elara was one of many. There are dozens of these cells. Even if we take out Montreal, we'll be fighting a war on a thousand fronts. We need allies."
-
-A new, unified strategy forms, born from the grim reality of their situation.
-
-"Phase one," Rémi declares, her voice ringing with authority. "The Alliance Protocol. Manson, you will use our most powerful transceiver to broadcast this intel on a secure channel. You will try to make contact with other enclaves. We need to know who else is out there."
-
-"Phase two," she continues, looking at Gus. "The Fortress Protocol. While we reach out, we build. I want every wall reinforced, every bullet counted, every citizen given combat training. We will turn this Citadel into a fortress that can withstand the end of the world."
-
-She finally looks to Elizabeth and Leo. "Phase three. The Nexus Strike. You will prepare the Ghosts and the Wardens for a pre-emptive assault on the Montreal Nexus. If our call for allies goes unanswered, you will be our only hope."
-
-The council is dismissed. The Citadel hums with a new, frantic purpose. The long peace is over.
-
-Manson and Elizabeth head to the highest point of the Citadel—the communications array on the roof. Under the cold starlight, Manson powers up the transceiver, inputting the data from the Architect's log. He isolates a repeating signal—a faint, encrypted System handshake—originating from the direction of Montreal. It's the one Chantal, the energy-sensing survivor from the interlude, was using.
-
-He prepares a message—a single, desperate pulse of information containing the Architect's plan.
-
-He looks at Elizabeth, the fate of more than just their city resting on this moment. She gives him a firm, determined nod.
-
-He presses send. The message flies out into the darkness, a single question sent into the silent, broken world: *Is anyone out there?*
 
 ### **Epilogue**
 
