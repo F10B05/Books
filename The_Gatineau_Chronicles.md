@@ -191,8 +191,6 @@ The moment they confirmed, a torrent of energy and information flooded their min
 They were no longer just survivors. They had a purpose.
 
 ### **Chapter 6: The Curator**
-<img width="128" height="128" alt="image_9df87ed7-5327-485b-b0ea-e92089116dd6" src="https://github.com/user-attachments/assets/1fdd3d80-005c-4bef-902f-0a3194ac35e9" />
-
 
 With one scout rescued but two still missing, they pressed on, carrying their unconscious new charge. They found another scout dead, his armor cracked by heavy blows, and the path ahead forked, with a Sentinel patrolling each corridor. Committing to the left path, they set an ambush. But this Sentinel let out a piercing `[Alarm Shriek]`, a psychically grating sound that promised imminent doom. The second Sentinel was coming, fast. After a frantic battle, they defeated the first, the rapid *click-click-click* of the second growing louder by the second.
 
@@ -200,7 +198,7 @@ Falling back to a defensible alcove, they made their stand. Manson unleashed his
 
 With both paths clear, Manson used his now-prodigious intellect to analyze the scuffed tracks. He deduced the story of the fight: the scouts had been ambushed, two had fled down the right path, one was killed, and the last was taken to be used as bait. Their path was clear.
 
-They entered the "Age of Sail" exhibit and found the two remaining scouts, Corine and David, hiding in a massive ship replica. They learned the true threat: an intelligent, stealthy boss they called **"The Curator."**
+They entered the "Age of Sail" exhibit and found the two remaining scouts, Corine and David, hiding in a massive ship replica. They learned the true threat: an intelligent, stealthy boss they called **"The Curator."** <img width="128" height="128" alt="image_9df87ed7-5327-485b-b0ea-e92089116dd6" style="float: left" src="https://github.com/user-attachments/assets/1fdd3d80-005c-4bef-902f-0a3194ac35e9" />
 
 Instead of retreating, the team made a bold choice: they would hunt the hunter. Using a priceless astrolabe from the exhibit as bait, they set a trap in the Grand Hall. The Curator, a grotesque fusion of the museum's former director and priceless artifacts from the History Hall, emerged from the shadows, moving with a silent, boneless grace. They sprung the trap with Manson's `[Kinetic Pulse]` `[-30 SP]`. The blast staggered the boss and interrupted its **[Shadow Step]** escape.
 
